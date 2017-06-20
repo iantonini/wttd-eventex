@@ -2,6 +2,9 @@
 
 Sistema do curso Welcome to the Django
 
+[![Build Status](https://travis-ci.org/iantonini/wttd-eventex.svg?branch=master)](https://travis-ci.org/iantonini/wttd-eventex)
+[![Code Health](https://landscape.io/github/iantonini/wttd-eventex/master/landscape.svg?style=flat)](https://landscape.io/github/iantonini/wttd-eventex/master)
+
 ## Como desenvolver?
 1. Clone o repositório
 2. Crie um virtualenv com Python 3.5
