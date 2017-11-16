@@ -1,6 +1,7 @@
 # Eventex
 
-Sistema de Eventos encomendado pela Morena do curso Welcome to the Django mistrado pelo Henrique Bastos
+Sistema de Eventos encomendado pela Morena.
+Curso Welcome To The Django ministrado por Henrique Bastos.
 
 [![Build Status](https://travis-ci.org/iantonini/wttd-eventex.svg?branch=master)](https://travis-ci.org/iantonini/wttd-eventex)
 [![Code Health](https://landscape.io/github/iantonini/wttd-eventex/master/landscape.svg?style=flat)](https://landscape.io/github/iantonini/wttd-eventex/master)
